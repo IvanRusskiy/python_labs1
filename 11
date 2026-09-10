@@ -1,0 +1,4 @@
+git clone git@github.com<nickname>/python_labs.git
+cd  python_labs
+mkdir -p src images
+git add . && git commit && git push
